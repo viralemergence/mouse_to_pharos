@@ -1,6 +1,6 @@
-# r-reproducible-repo
+# mouse to pharos
 
-The repository provides a template for reproducible R projects. It uses [`{targets}`](https://books.ropensci.org/targets/) to manage code execution (among other things) and [`{renv}`](https://rstudio.github.io/renv/index.html) to manage packages. Compute environments are managed via [docker](https://rocker-project.org/) and continuous integration happens in [github actions](https://docs.github.com/en/actions).
+This repo provides code for converting data to the wdds data standard
 
 ## How to use the template
 
